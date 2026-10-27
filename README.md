@@ -49,7 +49,7 @@ Desarrollador con mentalidad analítica y pasión por la creación de software r
         <img src="https://img.shields.io/badge/UI-Material_Design-blue?style=flat-square" />
       </p>
       <p>Aplicación Android nativa con arquitectura multi-fragmento y navegación mediante <em>BottomNavigationView</em>. Cuenta con adaptadores personalizados, vistas dinámicas con <em>CardView</em>, soporte Dark Mode y diálogos estilo cómic.</p>
-      <p align="center"><strong><a href="https://github.com/BLL75/SpyroTheDragon">Ver Repositorio →</a></strong></p>
+      <p align="center"><strong><a href="https://github.com/BLL75/spyro-the-dragon-android">Ver Repositorio →</a></strong></p>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ Desarrollador con mentalidad analítica y pasión por la creación de software r
         <img src="https://img.shields.io/badge/Data-SQLite%2FRoom-orange?style=flat-square" />
       </p>
       <p>Aplicación móvil intuitiva para explorar, filtrar y gestionar colecciones de Pokémon. Implementa persistencia local de datos, vistas de detalle dinámicas y navegación fluida.</p>
-      <p align="center"><strong><a href="https://github.com/BLL75/Tarea03_BLL">Ver Repositorio →</a></strong></p>
+      <p align="center"><strong><a href="https://github.com/BLL75/pokedex-android">Ver Repositorio →</a></strong></p>
     </td>
     <td width="50%">
       <h3 align="center">🍄 Super Mario Companion</h3>
@@ -69,7 +69,7 @@ Desarrollador con mentalidad analítica y pasión por la creación de software r
         <img src="https://img.shields.io/badge/UI-Custom_Splash-purple?style=flat-square" />
       </p>
       <p>Explorador del universo de Super Mario con animaciones de Splash Screen, RecyclerView optimizado para listas de personajes y vistas de información detallada.</p>
-      <p align="center"><strong><a href="https://github.com/BLL75/Tarea02_BLL">Ver Repositorio →</a></strong></p>
+      <p align="center"><strong><a href="https://github.com/BLL75/super-mario-android">Ver Repositorio →</a></strong></p>
     </td>
   </tr>
 </table>
